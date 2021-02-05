@@ -9,6 +9,4 @@ beberapa fitur inventory barang ini<br/>
 <li>laporan</li>
 <li>dll</li>
 </ol>
-untuk penambahan fitur dll, dapat mengubungi<br/>
-<strong>rizka.dwi.saputra@gmail.com</strong>
-# product_inventory
+
